@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Konna.obj-2a6f9eb35038a143bf30b990e4f7f941.mesh"
+
+[deps]
+
+files=[ "res://.import/Konna.obj-2a6f9eb35038a143bf30b990e4f7f941.mesh" ]
+
+source_file="res://Terrain/Konna.obj"
+dest_files=[ "res://.import/Konna.obj-2a6f9eb35038a143bf30b990e4f7f941.mesh", "res://.import/Konna.obj-2a6f9eb35038a143bf30b990e4f7f941.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true
