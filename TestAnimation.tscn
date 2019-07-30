@@ -1,0 +1,15 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Player/walking.dae" type="PackedScene" id=1]
+
+[node name="Scene Root" index="0" instance=ExtResource( 1 )]
+transform = Transform( 0.0474662, 3.81873e-005, 7.22576e-005, 7.17471e-005, 0.000626904, -0.0474621, -3.91382e-005, 0.0474621, 0.000626846, 0, 0, 0 )
+
+[node name="Skeleton" parent="." index="3"]
+transform = Transform( 0.0796508, 0, 0, 0, 0.0796508, -1.16415e-010, 0, 1.16415e-010, 0.0796508, 0, 0, 0 )
+
+[node name="Camera" type="Camera" parent="." index="5"]
+transform = Transform( 19.5752, 1.10775, -7.70903, 7.7874, -2.48243, 19.4174, 0.112612, -20.8915, -2.71604, -82.9199, 150.775, -104.599 )
+current = true
+fov = 90.0
+near = 0.01

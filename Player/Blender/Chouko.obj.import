@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Chouko.obj-c93d84f96e06672e38e560eb09b0b52f.mesh"
+
+[deps]
+
+files=[ "res://.import/Chouko.obj-c93d84f96e06672e38e560eb09b0b52f.mesh" ]
+
+source_file="res://Player/Blender/Chouko.obj"
+dest_files=[ "res://.import/Chouko.obj-c93d84f96e06672e38e560eb09b0b52f.mesh", "res://.import/Chouko.obj-c93d84f96e06672e38e560eb09b0b52f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

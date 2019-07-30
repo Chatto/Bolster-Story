@@ -15,7 +15,7 @@ _global_script_class_icons={
 
 [application]
 
-config/name="TestProject01"
+config/name="Bolster Story"
 run/main_scene="res://LevelScene.tscn"
 config/icon="res://icon.png"
 
