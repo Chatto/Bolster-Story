@@ -20,7 +20,7 @@ func _physics_process(delta: float) -> void:
 	direction.x += Input.get_action_strength("move_right")
 	
 	# Some controllers need a special type of normalizaion (Which i don't know.)
-	direction = direction.normalized()
+	#direction = direction.normalized()
 	
 	# 2 Calculate Speeds
 	var velocity: Vector3 = direction * SPEED
@@ -46,7 +46,7 @@ func _physics_process(delta: float) -> void:
 		# Apply the rotation
 		# The rotation_speed variable can be feed to an AnimationTree blend space
 		# This allows you to play turning animations
-		character.rotation.y = new_rotation + PI
+		character.rotation.y = new_rotation
 	
 	# 5 Animation States (Once model is added)
 	

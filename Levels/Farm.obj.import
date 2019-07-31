@@ -1,0 +1,18 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Farm.obj-1c6b6a9ee1f9a4c1d478b6f411e9b275.mesh"
+
+[deps]
+
+files=[ "res://.import/Farm.obj-1c6b6a9ee1f9a4c1d478b6f411e9b275.mesh" ]
+
+source_file="res://Levels/Farm.obj"
+dest_files=[ "res://.import/Farm.obj-1c6b6a9ee1f9a4c1d478b6f411e9b275.mesh", "res://.import/Farm.obj-1c6b6a9ee1f9a4c1d478b6f411e9b275.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+optimize_mesh=true

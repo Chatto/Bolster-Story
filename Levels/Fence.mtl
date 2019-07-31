@@ -1,0 +1,13 @@
+# Blender MTL File: 'Farm.blend'
+# Material Count: 1
+
+newmtl Fence1
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.058333 0.058333 0.058333
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Kd C:\\Users\\User\\Downloads\\Bolster\\GITHUB\\Bolster-Story\\Props\\Fence1\\light-brown-wooden-textured-background_53876-75016.jpg

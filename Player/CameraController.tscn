@@ -10,5 +10,8 @@ script = ExtResource( 1 )
 [node name="UD" type="Spatial" parent="LR"]
 
 [node name="Camera" type="Camera" parent="LR/UD"]
-transform = Transform( 1, 0, 0, 0, 0.939693, 0.34202, 0, -0.34202, 0.939693, 0, 5, 10 )
+transform = Transform( 1, 0, 0, 0, 0.939693, 0.34202, 0, -0.34202, 0.939693, 0, 3.55259, 6.2056 )
+doppler_tracking = 2
 current = true
+fov = 60.0
+far = 1000.0

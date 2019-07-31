@@ -1,5 +1,5 @@
-# Blender MTL File: 'Chouko.blend'
-# Material Count: 6
+# Blender MTL File: 'None'
+# Material Count: 7
 
 newmtl Boots
 Ns 211.013820
@@ -41,10 +41,21 @@ Ni 1.450000
 d 1.000000
 illum 2
 
+newmtl Face
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd texture_face.png
+
 newmtl Hair
 Ns 225.000000
 Ka 1.000000 1.000000 1.000000
-Kd 0.239553 0.084571 0.131169
+Kd 0.023650 0.010328 0.013255
 Ks 0.000000 0.000000 0.000000
 Ke 0.0 0.0 0.0
 Ni 1.000000
